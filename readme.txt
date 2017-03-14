@@ -1,8 +1,10 @@
 Git is a distributed version control system.
 Is Git a free software?
 
-¡¾20170314¡¿added a new branch 'Dev'
+ã€20170314ã€‘added a new branch 'Dev'
 
 added 1 new branch 'test1'
 
-ÊµÑé1+1£ºadd ºó²»commit,È»ºó×ª»»·ÖÖ§ÊÇ·ñÄÜ³É¹¦
+å®éªŒ1+1ï¼šadd åä¸commit,ç„¶åè½¬æ¢åˆ†æ”¯æ˜¯å¦èƒ½æˆåŠŸ
+
+added from github
